@@ -1,4 +1,4 @@
-# Hello, I'm sheryarAhmed 👋
+# Hello, I'm Sheryar Ahmed 👋
 
 Welcome to my GitHub profile! I'm a passionate data science enthusiast with a strong background in Python programming and data analysis. Currently pursuing a Bachelor's degree in Computer Engineering, I'm constantly exploring new ways to apply technology to solve real-world problems.
 
